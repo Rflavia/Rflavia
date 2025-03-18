@@ -15,10 +15,7 @@
 
  ##
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img height="172em" alt="Beatriz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizVencio&layout=compact&langs_count=10&theme=algolia&bg_color"/>
-</details>
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
 
 ##
 
