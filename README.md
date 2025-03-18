@@ -7,7 +7,7 @@
 💁‍♀️ &nbsp;Meu nome é Flávia Rosa.\
 🎓 &nbsp;No processo de graduação em Análise e Desenvolvimento de Sistemas.\
 ⭐ &nbsp;Você pode achar meus projetos na seção de repositórios.\
-😄 &nbsp;Pronomes: Ela/Dela.\
+😄 &nbsp;Pronomes: Ela/Dela.
 
 
 <br>
