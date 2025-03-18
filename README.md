@@ -8,7 +8,7 @@
 🎓 &nbsp;No processo de graduação em Análise e Desenvolvimento de Sistemas.\
 ⭐ &nbsp;Você pode achar meus projetos na seção de repositórios.\
 😄 &nbsp;Pronomes: Ela/Dela.\
-🌍 &nbsp;Curiosidade: Eu amo aprender coisas novas e ouvir música.
+
 
 <br>
 
