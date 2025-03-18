@@ -1,6 +1,7 @@
-<img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/banner.png" alt="Banner Personalizado">
+![Imagem GIF](https://github.com/Rflavia/Rflavia/raw/main/Imagem%20GIF.gif)
 
-## 👋 Olá! Eu sou [Seu Nome]
+
+## 👋 Olá! Eu sou Flávia Rosa
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Apaixonada por programação e tecnologia  
