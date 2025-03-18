@@ -1,8 +1,7 @@
-![Imagem GIF](https://github.com/Rflavia/Rflavia/raw/main/Imagem%20GIF.gif)
-
-
 ## *Olá!!* 👋 
 
+![Imagem GIF](https://github.com/Rflavia/Rflavia/raw/main/Imagem%20GIF.gif)
+<br>
 <br>
 
 💁‍♀️ &nbsp;Meu nome é Flávia Rosa.\
