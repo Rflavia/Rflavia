@@ -1,6 +1,6 @@
 ## *Olá!!* 👋 
 
-![Imagem GIF](https://github.com/Rflavia/Rflavia/raw/main/Imagem%20GIF.gif)
+<img align="right" alt="GIF" src="https://github.com/Rflavia/Rflavia/raw/main/Imagem%20GIF.gif" width="400" height="250"/>
 <br>
 <br>
 
