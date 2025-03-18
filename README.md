@@ -5,7 +5,7 @@
 <br>
 
 💁‍♀️ &nbsp;Meu nome é Flávia Rosa.\
-🎓 &nbsp;Estou no processo de graduação em Análise e Desenvolvimento de Sistemas.\
+🎓 &nbsp;No processo de graduação em Análise e Desenvolvimento de Sistemas.\
 ⭐ &nbsp;Você pode achar meus projetos na seção de repositórios.\
 💬 &nbsp;Sinta-se livre para falar comigo.\
 😄 &nbsp;Pronomes: Ela/Dela.\
@@ -43,9 +43,9 @@
 
 
 <div> 
-  <a href="https://www.instagram.com/beatriz_vencio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:beatrizvencio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-vencio-192593237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https:https://www.instagram.com/flavia.s.r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rflavia279@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:https:https://www.linkedin.com/in/fl%C3%A1via-rosa-8301781b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 
 
