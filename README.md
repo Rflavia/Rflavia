@@ -2,8 +2,6 @@
 
 Sou Analista de Dados, formada em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Data Science e Inteligência Artificial.
 
-📊 Tenho interesse em análise de dados, visualização e apoio à tomada de decisão, utilizando Python, SQL e Power BI.
-
 📁 Neste GitHub você encontrará projetos práticos de análise de dados, desenvolvidos durante meus estudos e projetos pessoais.
 
 🚀 Tecnologias:
