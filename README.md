@@ -1,6 +1,6 @@
 ## 👋 Olá
 
-Sou Analista de Dados Júnior, formada em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Data Science e Inteligência Artificial.
+Sou Analista de Dados, formada em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Data Science e Inteligência Artificial.
 
 📊 Tenho interesse em análise de dados, visualização e apoio à tomada de decisão, utilizando Python, SQL e Power BI.
 
