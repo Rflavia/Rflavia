@@ -1,7 +1,7 @@
 ## Flávia Rosa  
 ### Analista de Dados | Python | SQL | Power BI
 
-<img src="https://github.com/Rflavia/Rflavia/blob/main/Imagem%20GIF.gif" align="right" width="360px" style="margin-left: 20px;">
+<img src="https://github.com/Rflavia/Rflavia/blob/main/Imagem%20GIF.gif" align="right" width="500px">
 
 Sou Analista de Dados, formada em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Data Science e Inteligência Artificial.
 
@@ -23,7 +23,7 @@ Neste GitHub você encontrará projetos práticos desenvolvidos durante meus est
 
 <br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
