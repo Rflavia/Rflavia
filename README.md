@@ -1,7 +1,7 @@
 ## Flávia Rosa  
 ### Analista de Dados | Python | SQL | Power BI
 
-<img src="https://github.com/Rflavia/Rflavia/blob/main/Imagem%20GIF.gif" align="right" width="500px">
+<img src="https://github.com/Rflavia/Rflavia/blob/main/Imagem%20GIF.gif" align="right" width="470px">
 
 <p align="justify">
 Formada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Data Science e Inteligência Artificial.
