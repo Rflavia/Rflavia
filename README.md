@@ -3,13 +3,21 @@
 
 <img src="https://github.com/Rflavia/Rflavia/blob/main/Imagem%20GIF.gif" align="right" width="500px">
 
-Foormada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Data Science e Inteligência Artificial.
+<p align="justify">
+Formada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Data Science e Inteligência Artificial.
+</p>
 
+<p align="justify">
 Tenho conhecimento em análise de dados utilizando Python, SQL e ferramentas de visualização, com foco em transformar dados em informações úteis para tomada de decisão.
+</p>
 
+<p align="justify">
 Desenvolvo projetos práticos voltados à análise de dados, aplicando limpeza, tratamento e exploração de informações.
+</p>
 
+<p align="justify">
 Neste GitHub você encontrará projetos desenvolvidos durante meus estudos e prática pessoal.
+</p>
 
 <br clear="right"/>
 
